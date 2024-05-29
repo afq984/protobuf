@@ -1,0 +1,10 @@
+[package]
+name = "upb"
+edition = "2021"
+
+[lib]
+path = "lib.rs"
+crate-type = ["lib"]
+
+[build-dependencies]
+cc = "1.0"

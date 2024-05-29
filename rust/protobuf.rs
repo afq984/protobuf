@@ -17,7 +17,7 @@
 #[cfg(cpp_kernel)]
 use protobuf_cpp as kernel;
 
-#[cfg(upb_kernel)]
+#[cfg(not(cpp_kernel))]
 use protobuf_upb as kernel;
 
 pub use kernel::__public::*;

@@ -1,0 +1,987 @@
+{
+  "results": [{
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//rust/upb:upb_api.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/rust/upb/upb_api.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:sub.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/sub.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:extension_registry.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/extension_registry.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:extension.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/extension.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:file.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/file.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:message.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/message.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:field.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/field.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/def_parser:no_op.bat",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/def_parser/no_op.bat:1:1",
+        "visibilityLabel": ["//visibility:public"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:enum.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/enum.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:message.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/message.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:extension_registry.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/extension_registry.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/extension.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/extension.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/hash:common.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/hash/common.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:array.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/array.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:alloc.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/alloc.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/build_defs/build_info/templates:non_volatile_file.h.template",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/build_defs/build_info/templates/non_volatile_file.h.template:1:1",
+        "visibilityLabel": ["@bazel_tools//tools/build_defs/build_info:__pkg__"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/sub.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/sub.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/field.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/field.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:arena.hpp",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/arena.hpp:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/build_defs/build_info/templates:redacted_file.h.template",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/build_defs/build_info/templates/redacted_file.h.template:1:1",
+        "visibilityLabel": ["@bazel_tools//tools/build_defs/build_info:__pkg__"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/message.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/message.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:message.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/message.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:copy.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/copy.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/file.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/file.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/hash:common.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/hash/common.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:copy.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/copy.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/hash:int_table.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/hash/int_table.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:compat.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/compat.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:map_sorter.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/map_sorter.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:accessors.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/accessors.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:compat.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/compat.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:message.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/message.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/hash:str_table.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/hash/str_table.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/message.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/message.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:arena.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/arena.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:map_gencode_util.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/map_gencode_util.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:accessors.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/accessors.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:arena.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/arena.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/cpp:build_interface_so",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/cpp/build_interface_so:1:1",
+        "visibilityLabel": ["//visibility:public"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/cpp:link_dynamic_library.sh",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/cpp/link_dynamic_library.sh:1:1",
+        "visibilityLabel": ["//visibility:public"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:tagged_ptr.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/tagged_ptr.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:array.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/array.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:alloc.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/alloc.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@local_config_cc//:builtin_include_directory_paths",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/local_config_cc/builtin_include_directory_paths:1:1",
+        "visibilityLabel": ["//visibility:public"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:map.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/map.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/size_log2.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/size_log2.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:map.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/map.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "@bazel_tools//tools/build_defs/build_info/templates:volatile_file.h.template",
+        "location": "/usr/local/google/home/aaronyu/.cache/bazel/_bazel_aaronyu/a1d5da2d59e4ca903a7ffeade9d65639/external/bazel_tools/tools/build_defs/build_info/templates/volatile_file.h.template:1:1",
+        "visibilityLabel": ["@bazel_tools//tools/build_defs/build_info:__pkg__"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:value.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/value.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mini_table:internal/enum.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mini_table/internal/enum.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:status.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/status.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/extension.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/extension.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:string_view.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/string_view.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:internal/log2.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/internal/log2.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/port:undef.inc",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/port/undef.inc:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:status.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/status.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/extension.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/extension.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:descriptor_constants.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/descriptor_constants.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:upcast.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/upcast.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/mem:internal/arena.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/mem/internal/arena.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/map_entry.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/map_entry.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/port:atomic.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/port/atomic.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/port:vsnprintf_compat.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/port/vsnprintf_compat.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/tagged_ptr.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/tagged_ptr.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/compare_unknown.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/compare_unknown.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/compare_unknown.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/compare_unknown.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/array.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/array.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:internal/endian.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/internal/endian.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/message.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/message.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/map.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/map.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/accessors.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/accessors.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/map_sorter.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/map_sorter.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/types.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/types.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/message:internal/message.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/message/internal/message.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/base:status.hpp",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/base/status.hpp:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/port:def.inc",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/port/def.inc:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:internal/reader.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/internal/reader.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:reader.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/reader.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:reader.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/reader.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:eps_copy_input_stream.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/eps_copy_input_stream.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:eps_copy_input_stream.c",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/eps_copy_input_stream.c:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }, {
+    "target": {
+      "type": "SOURCE_FILE",
+      "sourceFile": {
+        "name": "//upb/wire:types.h",
+        "location": "/usr/local/google/home/aaronyu/protobuf/upb/wire/types.h:1:1",
+        "visibilityLabel": ["//visibility:private"]
+      }
+    },
+    "configuration": {
+      "checksum": "null"
+    }
+  }]
+}

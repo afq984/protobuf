@@ -1,0 +1,21 @@
+[workspace]
+members = ["upb", "utf8"]
+
+[package]
+name = "protobuf"
+edition = "2021"
+
+[lib]
+path = "shared.rs"
+crate-type = ["lib"]
+doctest = false
+
+[dependencies]
+paste = "1.0.15"
+upb = { path = "upb" }
+utf8 = { path = "utf8" }
+
+[test-dependencies]
+
+[dev-dependencies]
+googletest = { git = "https://github.com/google/googletest-rust", rev = "471d4a2a8e8bc74f6d7d9c8eecb4d4e3157b2a9f" }

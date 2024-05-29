@@ -47,7 +47,7 @@ pub mod __internal;
 #[cfg(cpp_kernel)]
 #[path = "cpp.rs"]
 pub mod __runtime;
-#[cfg(upb_kernel)]
+#[cfg(not(cpp_kernel))]
 #[path = "upb.rs"]
 pub mod __runtime;
 

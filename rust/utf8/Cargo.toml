@@ -1,0 +1,7 @@
+[package]
+name = "utf8"
+edition = "2021"
+
+[lib]
+path = "utf8.rs"
+crate-type = ["lib"]
